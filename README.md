@@ -1,4 +1,4 @@
-# 18 Month Study Plan - Software Developer
+# 18 Month Study Plan - Full Stack Web Developer
 #### Specialise in Full Stack Web Development
 #### 4 - 8 Hours per day, Monday - Sunday 2160 - 4320 hours over 18 months
 #### Job Ready (Front End Developer by Month 9 - 12)

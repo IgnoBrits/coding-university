@@ -94,13 +94,13 @@
 - GeeksforGeeks - Data Structures
 
 # Websites:
-- https://www.coursera.org/
-- https://www.geeksforgeeks.org/
-- https://www.udemy.com/
-- https://www.theodinproject.com/
-- https://www.khanacademy.org/
-- https://www.edx.org/
-- https://www.udacity.com/
-- https://www.mooc.fi/en/
+- (https://www.coursera.org/)
+- (https://www.geeksforgeeks.org/)
+- (https://www.udemy.com/)
+- (https://www.theodinproject.com/)
+- (https://www.khanacademy.org/)
+- (https://www.edx.org/)
+- (https://www.udacity.com/)
+- (https://www.mooc.fi/en/)
 
 

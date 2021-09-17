@@ -4,8 +4,8 @@
 - Job Ready (Front End Developer by Month 9 - 12)
 
 ## Month 1:
-- The Odin Project - Foundations (https://www.theodinproject.com/)
-- Udemy - Build Responsive Real-World Websites with HTML and CSS (https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+- .[The Odin Project - Foundations] (https://www.theodinproject.com/)
+- .[Udemy - Build Responsive Real-World Websites with HTML and CSS] (https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - EDX - CS50's Introduction to Computer Science
 
 ## Month 2:

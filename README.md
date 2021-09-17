@@ -1,7 +1,7 @@
 # 18 Month Study Plan - Software Developer
---- #### Specialise in Full Stack Web Development
---- #### 4 - 8 Hours per day, Monday - Sunday 2160 - 4320 hours over 18 months
---- #### Job Ready (Front End Developer by Month 9 - 12)
+#### Specialise in Full Stack Web Development
+#### 4 - 8 Hours per day, Monday - Sunday 2160 - 4320 hours over 18 months
+#### Job Ready (Front End Developer by Month 9 - 12)
 
 ## Month 1:
 - The Odin Project - Foundations
@@ -93,7 +93,7 @@
 - Udemy - Ultimate AWS Certified Developer Associate 2021 - NEW!
 - GeeksforGeeks - Data Structures
 
-# Websites:
+### Websites:
 - (https://www.coursera.org/)
 - (https://www.geeksforgeeks.org/)
 - (https://www.udemy.com/)

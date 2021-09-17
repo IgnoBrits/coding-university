@@ -84,13 +84,13 @@
 - Udacity - Software Architecture & Design
 
 ## Month 17:
-- Haskell Mooc
-- Ultimate AWS Certified Developer Associate 2021 - NEW!
+- Devops with Docker - Mooc
+- Udemy - Docker & Kubernetes: The Practical Guide
 - GeeksforGeeks - Algorithms
 
 ## Month 18:
-- Devops with Docker - Mooc
-- Docker & Kubernetes: The Practical Guide
+- Haskell Mooc
+- Udemy - Ultimate AWS Certified Developer Associate 2021 - NEW!
 - GeeksforGeeks - Data Structures
 
 # Websites:

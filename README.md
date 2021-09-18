@@ -2,7 +2,7 @@
 #### Specialise in Full Stack Web Development
 #### 4 - 8 Hours per day, Monday - Sunday 2160 - 4320 hours over 18 months
 #### Job Ready (Front End Developer by Month 9 - 12)
-#### Mark with ✅ when done
+#### Mark with ✅ between [ ] when done
 
 ## Month 1:
 - ##### [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations) [ ]

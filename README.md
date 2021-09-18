@@ -89,7 +89,7 @@
 - [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
 
 ## Month 18:
-- #####[Haskell Mooc](https://haskell.mooc.fi/)
+- ##### [Haskell Mooc](https://haskell.mooc.fi/)
 - [OPTIONAL: Udemy - Ultimate AWS Certified Developer Associate 2021 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/?src=sac&kw=Ultimate+AWS+Certified+Developer+Associate+2021+-+NEW%21)
 - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm)
 

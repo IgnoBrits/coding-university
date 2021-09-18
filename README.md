@@ -55,42 +55,42 @@
 
 ## Month 11:
 - [Full Stack Open - Mooc](https://fullstackopen.com/en/)
-- OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition
+- [OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/?src=sac&kw=understanding+typescript)
 - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ## Month 12:
 - [Full Stack Open - Mooc](https://fullstackopen.com/en/)
-- OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition
+- [OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/?src=sac&kw=understanding+typescript)
 - [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ## Month 13:
 - [Java Programming - Mooc](https://java-programming.mooc.fi/)
-- OPTIONAL: Udemy - Java Programming Masterclass covering Java 11 & Java 17
+- [OPTIONAL: Udemy - Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/?src=sac&kw=java+masterclass)
 - [Coursera - Algorithms 1](https://www.coursera.org/learn/algorithms-part1)
 
 ## Month 14:
 - [Java Programming - Mooc](https://java-programming.mooc.fi/)
-- OPTIONAL: Udemy - Java Programming Masterclass covering Java 11 & Java 17
+- [OPTIONAL: Udemy - Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/?src=sac&kw=java+masterclass)
 - [Coursera - Algorithms 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## Month 15:
 - [Java Programming - Mooc](https://java-programming.mooc.fi/)
-- OPTIONAL: Udemy - Spring & Hibernate for Beginners (includes Spring Boot)
+- [OPTIONAL: Udemy - Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/?src=sac&kw=spring+hibernate)
 - [Udacity - Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 
 ## Month 16:
 - [Java Programming - Mooc](https://java-programming.mooc.fi/)
-- OPTIONAL: Udemy - Spring & Hibernate for Beginners (includes Spring Boot)
+- [OPTIONAL: Udemy - Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/?src=sac&kw=spring+hibernate)
 - [Udacity - Software Testing](https://www.udacity.com/course/software-testing--cs258)
 
 ## Month 17:
 - [Devops with Docker - Mooc](https://devopswithdocker.com/)
-- OPTIONAL: Udemy - Docker & Kubernetes: The Practical Guide
+- [OPTIONAL: Udemy - Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 - [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)
 
 ## Month 18:
 - [Haskell Mooc](https://haskell.mooc.fi/)
-- OPTIONAL: Udemy - Ultimate AWS Certified Developer Associate 2021 - NEW!
+- [OPTIONAL: Udemy - Ultimate AWS Certified Developer Associate 2021 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/?src=sac&kw=Ultimate+AWS+Certified+Developer+Associate+2021+-+NEW%21)
 - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm)
 
 ### Websites:

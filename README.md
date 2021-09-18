@@ -4,7 +4,7 @@
 #### Job Ready (Front End Developer by Month 9 - 12)
 
 ## Month 1:
-- The Odin Project - Foundations
+- .[The Odin Project - Foundations].(https://www.theodinproject.com/paths/foundations)
 - OPTIONAL: Udemy - Build Responsive Real-World Websites with HTML and CSS
 - EDX - CS50's Introduction to Computer Science
 

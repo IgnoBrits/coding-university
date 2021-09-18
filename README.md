@@ -51,7 +51,7 @@
 ## Month 10:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/)
 - ##### [OPTIONAL: Udemy - SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/)
-- ##### [Khan Ac##### ademy- Calculus 2](https://www.khanacademy.org/math/calculus-2)
+- ##### [Khan Academy- Calculus 2](https://www.khanacademy.org/math/calculus-2)
 
 ## Month 11:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/)
@@ -59,8 +59,8 @@
 - ##### [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ## Month 12:
-- [Full Stack Open - Mooc](https://fullstackopen.com/en/)
-- [OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/?src=sac&kw=understanding+typescript)
+- ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/)
+- ##### [OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/?src=sac&kw=understanding+typescript)
 - ##### [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ## Month 13:

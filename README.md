@@ -15,7 +15,7 @@
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
 
 ## Month 3:
-- ##### [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations) [ ]
+- ##### [The Odin Project - Javascript Path](https://www.theodinproject.com/paths/full-stack-javascript) [ ]
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 - ##### [Khan Academy - Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) [ ]
 
@@ -67,22 +67,22 @@
 ## Month 13:
 - ##### [Java Programming - Mooc](https://java-programming.mooc.fi/) [ ]
 - ##### [OPTIONAL: Udemy - Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/?src=sac&kw=java+masterclass) [ ]
-- ##### [Coursera - Algorithms 1](https://www.coursera.org/learn/algorithms-part1) [ ]
+- ##### [Udacity - Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) [ ]
 
 ## Month 14:
 - ##### [Java Programming - Mooc](https://java-programming.mooc.fi/) [ ]
 - ##### [OPTIONAL: Udemy - Java Programming Masterclass covering Java 11 & Java 17](https://www.udemy.com/course/java-the-complete-java-developer-course/?src=sac&kw=java+masterclass) [ ]
-- ##### [Coursera - Algorithms 2](https://www.coursera.org/learn/algorithms-part2) [ ]
+- ##### [Udacity - Software Testing](https://www.udacity.com/course/software-testing--cs258) [ ]
 
 ## Month 15:
 - ##### [Java Programming - Mooc](https://java-programming.mooc.fi/) [ ]
 - ##### [OPTIONAL: Udemy - Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/?src=sac&kw=spring+hibernate) [ ]
-- ##### [Udacity - Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) [ ]
+- ##### [Coursera - Algorithms 1](https://www.coursera.org/learn/algorithms-part1) [ ]
 
 ## Month 16:
 - ##### [Java Programming - Mooc](https://java-programming.mooc.fi/) [ ]
 - ##### [OPTIONAL: Udemy - Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/?src=sac&kw=spring+hibernate) [ ]
-- ##### [Udacity - Software Testing](https://www.udacity.com/course/software-testing--cs258) [ ]
+- ##### [Coursera - Algorithms 2](https://www.coursera.org/learn/algorithms-part2) [ ]
 
 ## Month 17:
 - ##### [Devops with Docker - Mooc](https://devopswithdocker.com/) [ ]

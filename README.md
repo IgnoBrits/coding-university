@@ -5,7 +5,7 @@
 #### Mark with ✅ between [ ] when done
 
 ## Month 1:
-- ##### [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations) [ ]
+- ##### [The Odin Project - Foundations: Up Untill Javascript](https://www.theodinproject.com/paths/foundations) [ ]
 - ##### [OPTIONAL: Udemy - Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) [ ]
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
 
@@ -45,7 +45,7 @@
 - ##### [Khan Academy - Pre-Calculus](https://www.khanacademy.org/math/precalculus) [ ]
 
 ## Month 9:
-- ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [The Odin Project - Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) [ ]
 - ##### [OPTIONAL: Udemy - SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/) [ ]
 - ##### [Khan Academy- Calculus 1](https://www.khanacademy.org/math/calculus-1) [ ]
 

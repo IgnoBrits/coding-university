@@ -4,7 +4,7 @@
 #### Job Ready (Front End Developer by Month 9 - 12)
 #### Mark with ✅ between [ ] when done
 
-https://github.com/IgnoBrits/coding-university/blob/cc2fdb99da1cbd42e733103c5551864714967342/aao%201.jpg
+https://github.com/IgnoBrits/coding-university/blob/cc2fdb99da1cbd42e733103c5551864714967342/aao%201.jpg?raw=true
 
 ## Month 1:
 - ##### [The Odin Project - Foundations: Up Untill Javascript](https://www.theodinproject.com/paths/foundations) [ ]

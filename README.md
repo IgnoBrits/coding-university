@@ -4,6 +4,8 @@
 #### Job Ready (Front End Developer by Month 9 - 12)
 #### Mark with ✅ between [ ] when done
 
+aao 1.jpg
+
 ## Month 1:
 - ##### [The Odin Project - Foundations: Up Untill Javascript](https://www.theodinproject.com/paths/foundations) [ ]
 - ##### [OPTIONAL: Udemy - Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) [ ]

@@ -98,6 +98,7 @@
 ## Month 18:
 - ##### [Haskell Mooc](https://haskell.mooc.fi/) [ ]
 - ##### [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm) [ ]
+- ##### [Rust Programming: The Complete Developer's Guide](https://academy.zerotomastery.io/p/learn-rust) [ ]
 
 ## Websites:
 #### - https://open.appacademy.io/learn/js-py-open-beta

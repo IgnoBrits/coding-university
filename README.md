@@ -96,7 +96,7 @@
 - ##### [OPTIONAL: Udemy - Ultimate AWS Certified Developer Associate 2021 - NEW!](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/?src=sac&kw=Ultimate+AWS+Certified+Developer+Associate+2021+-+NEW%21) [ ]
 
 ## Month 18:
-- ##### [Haskell Mooc](https://haskell.mooc.fi/) [ ]
+- ##### [Khan Academy - Multivariable calculus](https://www.khanacademy.org/math/multivariable-calculus) [ ]
 - ##### [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm) [ ]
 - ##### [OPTIONAL: ZTM Academy - Rust Programming: The Complete Developer's Guide](https://academy.zerotomastery.io/p/learn-rust) [ ]
 

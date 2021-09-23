@@ -4,7 +4,7 @@
 #### Job Ready (Front End Developer by Month 9 - 12)
 #### Mark with ✅ between [ ] when done
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
 
 ## Month 1:
 - ##### [The Odin Project - Foundations: Up Untill Javascript](https://www.theodinproject.com/paths/foundations) [ ]

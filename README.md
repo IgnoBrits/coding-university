@@ -98,6 +98,12 @@
 - ##### [Haskell Mooc](https://haskell.mooc.fi/) [ ]
 - ##### [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm) [ ]
 
+## Month 19:
+- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
+
+## Month 20:
+- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
+
 ## Websites:
 #### - https://open.appacademy.io/learn/js-py-open-beta
 #### - https://www.coursera.org/

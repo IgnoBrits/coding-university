@@ -1,8 +1,7 @@
 # 18 Month Study Plan - Full Stack Web Developer
 #### Specialise in Full Stack Web Development
 #### 8 Hours per day, Monday - Saturday = 3400++ hours over 18 months
-#### Job Ready (Front End Developer by Month 9 - 12)
-#### Mark with ✅ between [ ] when done
+#### Check with ✅ between [ ] when completed
 
 ## Month 1:
 - ##### [The Odin Project - Foundations: Up Untill Javascript](https://www.theodinproject.com/paths/foundations) [ ]

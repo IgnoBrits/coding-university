@@ -98,6 +98,7 @@
 - ##### [Haskell Mooc](https://haskell.mooc.fi/) [ ]
 - ##### [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm) [ ]
 
+
 ### Websites:
 #### - https://open.appacademy.io/learn/js-py-open-beta
 #### - https://www.coursera.org/

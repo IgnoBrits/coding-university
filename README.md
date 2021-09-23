@@ -2,6 +2,7 @@
 #### Specialise in Full Stack Web Development
 #### 4 - 8 Hours per day, Monday - Sunday 2160 - 4320 hours over 18 months
 #### Job Ready (Front End Developer by Month 9 - 12)
+#### Month 8 (7th month of App Academy Open) - Revision of App Academy Curriculum
 #### Mark with ✅ between [ ] when done
 
 ## Month 1:
@@ -13,40 +14,40 @@
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
-![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
+![AAO1](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "AAO Month 1")
 
 ## Month 3:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 - ##### [Khan Academy - Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) [ ]
-![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%202.jpg?raw=true?raw=true "Optional Title")
+![AAO2](https://github.com/IgnoBrits/coding-university/blob/main/aao%202.jpg?raw=true?raw=true "AAO Month 2")
 
 ## Month 4:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 - ##### [Khan Academy - Alegbra 1](https://www.khanacademy.org/math/algebra) [ ]
-![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%203.jpg?raw=true?raw=true "Optional Title")
+![AAO3](https://github.com/IgnoBrits/coding-university/blob/main/aao%203.jpg?raw=true?raw=true "AAO Month 3")
 
 ## Month 5:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) [ ]
 - ##### [Khan Academy - Algebra 2](https://www.khanacademy.org/math/algebra2) [ ]
-![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%204.jpg?raw=true?raw=true "Optional Title")
+![AAO4](https://github.com/IgnoBrits/coding-university/blob/main/aao%204.jpg?raw=true?raw=true "AAO Month 4")
 
 ## Month 6:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) [ ]
 - ##### [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) [ ]
-![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%205.jpg?raw=true?raw=true "Optional Title")
+![AAO5](https://github.com/IgnoBrits/coding-university/blob/main/aao%205.jpg?raw=true?raw=true "AAO Month 5")
 
 ## Month 7:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
 - ##### [Khan Academy - Trigonometry](https://www.khanacademy.org/math/trigonometry) [ ]
-![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%206.jpg?raw=true?raw=true "Optional Title")
+![AAO6](https://github.com/IgnoBrits/coding-university/blob/main/aao%206.jpg?raw=true?raw=true "AAO Month 6")
 
 ## Month 8:
-- ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [App Academy Open - JS && PY = Revision](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
 - ##### [Khan Academy - Pre-Calculus](https://www.khanacademy.org/math/precalculus) [ ]
 

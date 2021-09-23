@@ -1,8 +1,7 @@
 # 18 Month Study Plan - Full Stack Web Developer
 #### Specialise in Full Stack Web Development
-#### 4 - 8 Hours per day, Monday - Sunday 2160 - 4320 hours over 18 months
+#### 4 - 8 Hours per day, Monday - Sunday = 4000+ hours over 18 months
 #### Job Ready (Front End Developer by Month 9 - 12)
-#### Month 8 (7th month of App Academy Open) - Revision of App Academy Curriculum
 #### Mark with ✅ between [ ] when done
 
 ## Month 1:
@@ -47,22 +46,24 @@
 - ##### [OPTIONAL: Udemy - The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) [ ]
 
 ## Month 8:
-- ##### [App Academy Open - JS && PY = Revision](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
 - ##### [Khan Academy - Pre-Calculus](https://www.khanacademy.org/math/precalculus) [ ]
 - ##### [OPTIONAL: Udemy - Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) [ ]
 
 ## Month 9:
+- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
 - ##### [The Odin Project - Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) [ ]
 - ##### [Khan Academy- Calculus 1](https://www.khanacademy.org/math/calculus-1) [ ]
-- ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
 
 ## Month 10:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
 - ##### [Khan Academy- Calculus 2](https://www.khanacademy.org/math/calculus-2) [ ]
+- ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
 
 ## Month 11:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
 - ##### [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) [ ]
+- ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
 
 ## Month 12:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
@@ -97,12 +98,6 @@
 ## Month 18:
 - ##### [Haskell Mooc](https://haskell.mooc.fi/) [ ]
 - ##### [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm) [ ]
-
-## Month 19:
-- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
-
-## Month 20:
-- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
 
 ## Websites:
 #### - https://open.appacademy.io/learn/js-py-open-beta

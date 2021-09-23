@@ -4,8 +4,6 @@
 #### Job Ready (Front End Developer by Month 9 - 12)
 #### Mark with ✅ between [ ] when done
 
-![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
-
 ## Month 1:
 - ##### [The Odin Project - Foundations: Up Untill Javascript](https://www.theodinproject.com/paths/foundations) [ ]
 - ##### [OPTIONAL: Udemy - Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) [ ]
@@ -15,36 +13,43 @@
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
+![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
 
 ## Month 3:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 - ##### [Khan Academy - Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) [ ]
+![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
 
 ## Month 4:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 - ##### [Khan Academy - Alegbra 1](https://www.khanacademy.org/math/algebra) [ ]
+![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
 
 ## Month 5:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) [ ]
 - ##### [Khan Academy - Algebra 2](https://www.khanacademy.org/math/algebra2) [ ]
+![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
 
 ## Month 6:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) [ ]
 - ##### [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) [ ]
+![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
 
 ## Month 7:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
 - ##### [Khan Academy - Trigonometry](https://www.khanacademy.org/math/trigonometry) [ ]
+![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
 
 ## Month 8:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
 - ##### [Khan Academy - Pre-Calculus](https://www.khanacademy.org/math/precalculus) [ ]
+![Alt text](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "Optional Title")
 
 ## Month 9:
 - ##### [The Odin Project - Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) [ ]

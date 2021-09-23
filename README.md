@@ -63,7 +63,6 @@
 ## Month 11:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
 - ##### [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) [ ]
-- ##### [OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/?src=sac&kw=understanding+typescript) [ ]
 
 ## Month 12:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]

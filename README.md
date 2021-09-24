@@ -45,29 +45,29 @@
 - ##### [OPTIONAL: Udemy - The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) [ ]
 
 ## Month 8:
-- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
+- ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
 - ##### [Khan Academy - Pre-Calculus](https://www.khanacademy.org/math/precalculus) [ ]
-- ##### [OPTIONAL: Udemy - Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) [ ]
+- ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
 
 ## Month 9:
-- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
-- ##### [The Odin Project - Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) [ ]
+- ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
 - ##### [Khan Academy- Calculus 1](https://www.khanacademy.org/math/calculus-1) [ ]
+- ##### [OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/?src=sac&kw=understanding+typescript) [ ]
 
 ## Month 10:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
 - ##### [Khan Academy- Calculus 2](https://www.khanacademy.org/math/calculus-2) [ ]
-- ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
+- ##### [OPTIONAL: Udemy - Docker & Kubernetes: The Practical Guide](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/) [ ]
 
 ## Month 11:
-- ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
+- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
 - ##### [Khan Academy - Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) [ ]
-- ##### [OPTIONAL: Udemy - Node.js, Express, MongoDB & More: The Complete Bootcamp 2021](https://www.udemy.com/course/nodejs-express-mongodb-bootcamp/) [ ]
+- ##### [The Odin Project - Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) [ ]
 
 ## Month 12:
-- ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
+- ##### [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript) [ ]
 - ##### [Coursera - Algorithms Specialization](https://www.coursera.org/specializations/algorithms) [ ]
-- ##### [OPTIONAL: Udemy - Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/?src=sac&kw=understanding+typescript) [ ]
+- ##### [The Odin Project - Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) [ ]
 
 ## Month 13:
 - ##### [Java Programming - Mooc](https://java-programming.mooc.fi/) [ ]

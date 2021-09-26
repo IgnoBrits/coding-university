@@ -7,6 +7,7 @@
 - ##### [The Odin Project - Foundations: Up Untill Javascript](https://www.theodinproject.com/paths/foundations) [ ]
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
 - ##### [OPTIONAL: Udemy - Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) [ ]
+- ##### [OPTIONAL: Udemy - Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/) [ ]
 
 ## Month 2:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]

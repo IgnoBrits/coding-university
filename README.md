@@ -15,12 +15,14 @@
 
 ## Month 2:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO1](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "AAO Month 1")
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
 - ##### [OPTIONAL: Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) [ ]
 
 ## Month 3:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO2](https://github.com/IgnoBrits/coding-university/blob/main/aao%202.jpg?raw=true?raw=true "AAO Month 2")
 - ##### [Khan Academy - Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) [ ]
 - ##### [OPTIONAL: Udemy - Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/) [ ]
@@ -28,24 +30,28 @@
 
 ## Month 4:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO3](https://github.com/IgnoBrits/coding-university/blob/main/aao%203.jpg?raw=true?raw=true "AAO Month 3")
 - ##### [Khan Academy - Alegbra 1](https://www.khanacademy.org/math/algebra) [ ]
 - ##### [OPTIONAL: Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) [ ]
 
 ## Month 5:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO4](https://github.com/IgnoBrits/coding-university/blob/main/aao%204.jpg?raw=true?raw=true "AAO Month 4")
 - ##### [Khan Academy - Algebra 2](https://www.khanacademy.org/math/algebra2) [ ]
 - ##### [OPTIONAL: Udemy - SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/) [ ]
 
 ## Month 6:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO5](https://github.com/IgnoBrits/coding-university/blob/main/aao%205.jpg?raw=true?raw=true "AAO Month 5")
 - ##### [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra) [ ]
 - ##### [OPTIONAL: Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) [ ]
 
 ## Month 7:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
+- ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO6](https://github.com/IgnoBrits/coding-university/blob/main/aao%206.jpg?raw=true?raw=true "AAO Month 6")
 - ##### [Khan Academy - Trigonometry](https://www.khanacademy.org/math/trigonometry) [ ]
 - ##### [OPTIONAL: Udemy - The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) [ ]

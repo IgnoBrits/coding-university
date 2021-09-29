@@ -1,18 +1,22 @@
-# 18 Month Study Plan - Full Stack Web Developer
+# 18/19 Month Study Plan - Full Stack Web Developer
 #### Specialise in Full Stack Web Development
 #### 8 Hours per day, Monday - Saturday = 3400++ hours over 18 months
 #### Check with ✅ between [ ] when completed
 
-## Month 1:
-- ##### [The Odin Project - Foundations: Up Untill Javascript](https://www.theodinproject.com/paths/foundations) [ ]
+## Month 0:
+- ##### [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations) [ ]
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
 - ##### [OPTIONAL: Udemy - Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) [ ]
+
+## Month 1:
+- ##### [The Odin Project - Foundations](https://www.theodinproject.com/paths/foundations) [ ]
+- ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
+- ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 
 ## Month 2:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 ![AAO1](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "AAO Month 1")
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
-- ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
 - ##### [OPTIONAL: Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) [ ]
 
 ## Month 3:

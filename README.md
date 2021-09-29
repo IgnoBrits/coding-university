@@ -13,12 +13,14 @@
 ![AAO1](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "AAO Month 1")
 - ##### [EDX - CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=06cc657acf8c7fb1420496302a5eb167&position=1) [ ]
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
+- ##### [OPTIONAL: Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) [ ]
 
 ## Month 3:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 ![AAO2](https://github.com/IgnoBrits/coding-university/blob/main/aao%202.jpg?raw=true?raw=true "AAO Month 2")
 - ##### [Khan Academy - Pre-Algebra](https://www.khanacademy.org/math/pre-algebra) [ ]
 - ##### [OPTIONAL: Udemy - Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/) [ ]
+- ##### [OPTIONAL: Udemy - JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) [ ]
 
 ## Month 4:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]

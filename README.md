@@ -1,4 +1,4 @@
-# 18/19 Month Study Plan - Full Stack Web Developer
+# 27 Month Study Plan - Full Stack Web Developer
 #### Specialise in Full Stack Web Development
 #### 8 Hours per day, Monday - Saturday = 3400++ hours over 18 months
 #### Check with ✅ between [ ] when completed
@@ -12,43 +12,43 @@
 - ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO1](https://github.com/IgnoBrits/coding-university/blob/main/aao%201.jpg?raw=true?raw=true "AAO Month 1")
 - ##### [OPTIONAL: Udemy - The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) [ ]
+- ##### [OPTIONAL: Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) [ ]
 
 ## Month 2:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO2](https://github.com/IgnoBrits/coding-university/blob/main/aao%202.jpg?raw=true?raw=true "AAO Month 2")
-- ##### [OPTIONAL: Udemy - JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/) [ ]
+- ##### [OPTIONAL: Udemy - Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/) [ ]
+- ##### [OPTIONAL: Udemy - JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) [ ]
 
 ## Month 3:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO3](https://github.com/IgnoBrits/coding-university/blob/main/aao%203.jpg?raw=true?raw=true "AAO Month 3")
-- ##### [OPTIONAL: Udemy - Data Structures & Algorithms - JavaScript](https://www.udemy.com/course/data-structures-algorithms-javascript/) [ ]
-- ##### [OPTIONAL: Udemy - JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/) [ ]
+- ##### [OPTIONAL: Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) [ ]
 
 ## Month 4:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO4](https://github.com/IgnoBrits/coding-university/blob/main/aao%204.jpg?raw=true?raw=true "AAO Month 4")
-- ##### [OPTIONAL: Udemy - Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/) [ ]
+- ##### [OPTIONAL: Udemy - SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/) [ ]
 
 ## Month 5:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO5](https://github.com/IgnoBrits/coding-university/blob/main/aao%205.jpg?raw=true?raw=true "AAO Month 5")
-- ##### [OPTIONAL: Udemy - SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/course/sql-and-postgresql/) [ ]
+- ##### [OPTIONAL: Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) [ ]
 
 ## Month 6:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 ![AAO6](https://github.com/IgnoBrits/coding-university/blob/main/aao%206.jpg?raw=true?raw=true "AAO Month 6")
-- ##### [OPTIONAL: Udemy - React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/) [ ]
+- ##### [OPTIONAL: Udemy - The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) [ ]
 
 ## Month 7:
 - ##### [App Academy Open - JS && PY](https://open.appacademy.io/learn/js-py-open-beta/) [ ]
 - ##### [Rithm School - Supplement for App Academy Open](https://www.rithmschool.com/courses) [ ]
 - ##### [The Odin Project - Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired) [ ]
-- ##### [OPTIONAL: Udemy - The Modern Python 3 Bootcamp](https://www.udemy.com/course/the-modern-python3-bootcamp/) [ ]
 
 ## Month 8:
 - ##### [Full Stack Open - Mooc](https://fullstackopen.com/en/) [ ]
